@@ -1,3 +1,3 @@
 # Python-Exercises
 
-Ejercicios de práctica realizados en Python.
+Practice exercises done in Python.
